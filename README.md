@@ -1,7 +1,7 @@
 [Uploading README.md…]()
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=900&center=true&vCenter=true&width=650&lines=Bonjour!;I'm+Ayush;I+love+building+and+learning+new+things;Build.+Break.+Learn.+Repeat." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=900&center=true&vCenter=true&width=650&lines=Bonjour!;I'm+Ayush;I+love+building+and+learning+new+things;Build.+Break.+Learn.+Repeat.&color=FFB6C1" alt="Typing animation" />
 
 </div>
 
