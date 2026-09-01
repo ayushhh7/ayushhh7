@@ -5,9 +5,7 @@
 
 </div>
 
-## 👨‍💻 About Me
-
-## About Me
+##  About Me
 
 AI/ML student interested in AI, software development, and building things.
 
