@@ -1,8 +1,7 @@
+[Uploading README.md…]()
 <div align="center">
 
-# 👋 Bonjour, I'm Ayush!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Bonjour%2C+I'm+Ayush+%F0%9F%91%8B;Namaste%2C+welcome+to+my+GitHub!+%F0%9F%99%8F;Hello+there%2C+let's+build+something+cool!+%F0%9F%9A%80;I+love+building+and+learning+new+things." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=900&center=true&vCenter=true&width=650&lines=Bonjour!;I'm+Ayush;I+love+building+and+learning+new+things;Build.+Break.+Learn.+Repeat." alt="Typing animation" />
 
 </div>
 
@@ -97,8 +96,6 @@ I'm a **Computer Science Engineering student** who enjoys turning ideas into wor
 ---
 
 <div align="center">
-
-### 💡 Build. Break. Learn. Repeat.
 
 <img src="https://komarev.com/ghpvc/?username=ayushhh7&style=flat-square&color=blue" alt="Profile views" />
 
