@@ -7,14 +7,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** who enjoys turning ideas into working projects.
+## About Me
 
-- 💻 Interested in **Full-Stack Development**
-- 🤖 Exploring **AI/ML and LLMs**
-- 🎨 Interested in **UI/UX Design**
-- 🚀 Building projects and participating in **hackathons**
-- 🌱 Currently improving my **JavaScript, React, TypeScript and backend skills**
-- 🧠 I learn best by **building things**
+AI/ML student interested in AI, software development, and building things.
+
+Currently learning:
+- 🤖 AI / ML / LLMs
+- 💻 Full-Stack Development
+- 🧩 DSA
+- 🎨 UI/UX
 
 ---
 
@@ -46,7 +47,6 @@ I'm a **Computer Science Engineering student** who enjoys turning ideas into wor
 
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logoColor=white" />
 </p>
 
