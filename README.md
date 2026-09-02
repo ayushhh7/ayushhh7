@@ -52,10 +52,9 @@ Currently learning:
 
 ## 🚀 What I'm Working On
 
-- 🎵 Building and improving full-stack applications
-- 🤖 Experimenting with local LLMs and AI-assisted development
-- 🏆 Preparing for hackathons and building practical solutions
-- 🌐 Learning modern full-stack development
+-  Experimenting with local LLMs and AI-assisted development
+-  Learning modern full-stack development
+-  Reverse Engineering & System Analysis
 
 ---
 
@@ -85,9 +84,7 @@ Currently learning:
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ayush-wakekar-654038393/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" />
-</a>
+
 
 </div>
 
