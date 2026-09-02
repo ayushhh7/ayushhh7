@@ -84,6 +84,9 @@ Currently learning:
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" />
 </a>
 &nbsp;&nbsp;&nbsp;
+<a href="mailto:ayushw273@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 </div>
