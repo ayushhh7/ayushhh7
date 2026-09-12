@@ -34,7 +34,7 @@ Currently learning:
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql" />
 </p>
 
 ### 🤖 AI / Tools
