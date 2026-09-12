@@ -1,11 +1,10 @@
-[Uploading README.md…]()
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=900&center=true&vCenter=true&width=650&lines=Bonjour!;I'm+Ayush;I+love+building+and+learning+new+things;Build.+Break.+Learn.+Repeat.&color=FFB6C1" alt="Typing animation" />
 
 </div>
 
-##  About Me
+## 👋 About Me
 
 AI/ML student interested in AI, software development, and building things.
 
@@ -28,7 +27,7 @@ Currently learning:
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -44,6 +43,9 @@ Currently learning:
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/PaddleOCR-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logoColor=white" />
 </p>
@@ -52,9 +54,11 @@ Currently learning:
 
 ## 🚀 What I'm Working On
 
--  Experimenting with local LLMs and AI-assisted development
--  Learning modern full-stack development
--  Reverse Engineering & System Analysis
+- 🤖 Experimenting with local LLMs and AI-assisted development
+- 💻 Building and learning modern full-stack applications
+- 🔍 Exploring AI/ML-based real-world solutions
+- 🧩 Improving my DSA and problem-solving skills
+- 🔧 Reverse Engineering & System Analysis
 
 ---
 
@@ -87,7 +91,6 @@ Currently learning:
 <a href="mailto:ayushw273@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 </div>
 
