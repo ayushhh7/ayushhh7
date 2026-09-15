@@ -9,7 +9,7 @@
 AI/ML student interested in AI, software development, and building things.
 
 Currently learning:
-- 🤖 AI / ML / LLMs
+- 🤖 AI / ML / GenAI
 - 💻 Full-Stack Development
 - 🧩 DSA
 - 🎨 UI/UX
