@@ -4,65 +4,63 @@
 
 </div>
 
-## 👋 About Me
+##  About Me
 
 AI/ML student interested in AI, software development, and building things.
 
 Currently learning:
-- 🤖 AI / ML / GenAI
-- 💻 Full-Stack Development
-- 🧩 DSA
-- 🎨 UI/UX
+-  AI / ML / GenAI
+-  Full-Stack Development
+-  DSA
+-  UI/UX
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💬 Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,python,kotlin" />
 </p>
 
-### 🌐 Web Development
+###  Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql" />
 </p>
 
-### 🤖 AI / Tools
+###  AI / Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PaddleOCR-3776AB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-- 🤖 Experimenting with local LLMs and AI-assisted development
-- 💻 Building and learning modern full-stack applications
-- 🔍 Exploring AI/ML-based real-world solutions
-- 🧩 Improving my DSA and problem-solving skills
-- 🔧 Reverse Engineering & System Analysis
+-  Experimenting with local LLMs and AI-assisted development
+-  Building and learning modern full-stack applications
+-  Exploring AI/ML-based real-world solutions
+-  Improving my DSA and problem-solving skills
+-  Reverse Engineering & System Analysis
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
